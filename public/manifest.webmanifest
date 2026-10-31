@@ -1,0 +1,10 @@
+{
+  "name": "JEE OneShot OS",
+  "short_name": "OneShot OS",
+  "description": "One JEE video per day. Physics, Chemistry, Mathematics.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#0b1020",
+  "theme_color": "#0b1020",
+  "icons": []
+}

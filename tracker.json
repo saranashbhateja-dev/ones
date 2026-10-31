@@ -1,0 +1,1060 @@
+{
+  "v": 2,
+  "curriculumId": "jee-oneshot-2026-11-01-v2",
+  "name": "JEE OneShot OS",
+  "theme": "dark",
+  "planStart": "2026-11-01",
+  "dailyVideos": 1,
+  "rotation": [
+    "P",
+    "C",
+    "M"
+  ],
+  "completed": {},
+  "chapters": [
+    {
+      "id": "P-01",
+      "subject": "Physics",
+      "subjectKey": "P",
+      "number": 1,
+      "name": "Basic Mathematics",
+      "url": "https://www.youtube.com/watch?v=a9EAKHvqAy0",
+      "videoId": "a9EAKHvqAy0"
+    },
+    {
+      "id": "P-02",
+      "subject": "Physics",
+      "subjectKey": "P",
+      "number": 2,
+      "name": "Vectors",
+      "url": "https://www.youtube.com/watch?v=FoJ42bUedYM",
+      "videoId": "FoJ42bUedYM"
+    },
+    {
+      "id": "P-03",
+      "subject": "Physics",
+      "subjectKey": "P",
+      "number": 3,
+      "name": "Units, Dimensions and Measurement",
+      "url": "https://www.youtube.com/watch?v=OY7k5nZNbTA",
+      "videoId": "OY7k5nZNbTA"
+    },
+    {
+      "id": "P-04",
+      "subject": "Physics",
+      "subjectKey": "P",
+      "number": 4,
+      "name": "Motion in a Straight Line",
+      "url": "https://www.youtube.com/watch?v=gQms8pI1KP0",
+      "videoId": "gQms8pI1KP0"
+    },
+    {
+      "id": "P-05",
+      "subject": "Physics",
+      "subjectKey": "P",
+      "number": 5,
+      "name": "Motion in a Plane",
+      "url": "https://www.youtube.com/watch?v=b7_TiY1JXzs",
+      "videoId": "b7_TiY1JXzs"
+    },
+    {
+      "id": "P-06",
+      "subject": "Physics",
+      "subjectKey": "P",
+      "number": 6,
+      "name": "Laws of Motion",
+      "url": "https://www.youtube.com/watch?v=7ob4PtmHZEQ",
+      "videoId": "7ob4PtmHZEQ"
+    },
+    {
+      "id": "P-07",
+      "subject": "Physics",
+      "subjectKey": "P",
+      "number": 7,
+      "name": "Friction",
+      "url": "https://www.youtube.com/watch?v=suZzNZeutVE",
+      "videoId": "suZzNZeutVE"
+    },
+    {
+      "id": "P-08",
+      "subject": "Physics",
+      "subjectKey": "P",
+      "number": 8,
+      "name": "Work, Energy and Power",
+      "url": "https://www.youtube.com/watch?v=8GCv5SAOWp0",
+      "videoId": "8GCv5SAOWp0"
+    },
+    {
+      "id": "P-09",
+      "subject": "Physics",
+      "subjectKey": "P",
+      "number": 9,
+      "name": "Circular Motion",
+      "url": "https://www.youtube.com/watch?v=d1gScDatVc0",
+      "videoId": "d1gScDatVc0"
+    },
+    {
+      "id": "P-10",
+      "subject": "Physics",
+      "subjectKey": "P",
+      "number": 10,
+      "name": "Centre of Mass, Momentum and Collision",
+      "url": "https://www.youtube.com/watch?v=xdP4dOa9GN0",
+      "videoId": "xdP4dOa9GN0"
+    },
+    {
+      "id": "P-11",
+      "subject": "Physics",
+      "subjectKey": "P",
+      "number": 11,
+      "name": "Rotational Motion – Part 1",
+      "url": "https://www.youtube.com/watch?v=9OUHePe1nXs",
+      "videoId": "9OUHePe1nXs"
+    },
+    {
+      "id": "P-12",
+      "subject": "Physics",
+      "subjectKey": "P",
+      "number": 12,
+      "name": "Rotational Motion – Part 2",
+      "url": "https://www.youtube.com/watch?v=0BvN0yk-SYU",
+      "videoId": "0BvN0yk-SYU"
+    },
+    {
+      "id": "P-13",
+      "subject": "Physics",
+      "subjectKey": "P",
+      "number": 13,
+      "name": "Gravitation",
+      "url": "https://www.youtube.com/watch?v=2jfFyNefgxg",
+      "videoId": "2jfFyNefgxg"
+    },
+    {
+      "id": "P-14",
+      "subject": "Physics",
+      "subjectKey": "P",
+      "number": 14,
+      "name": "Properties of Solids",
+      "url": "https://www.youtube.com/watch?v=5ILswq2DH2U",
+      "videoId": "5ILswq2DH2U"
+    },
+    {
+      "id": "P-15",
+      "subject": "Physics",
+      "subjectKey": "P",
+      "number": 15,
+      "name": "Fluids – Part 1",
+      "url": "https://www.youtube.com/watch?v=0svSSlBi0M0",
+      "videoId": "0svSSlBi0M0"
+    },
+    {
+      "id": "P-16",
+      "subject": "Physics",
+      "subjectKey": "P",
+      "number": 16,
+      "name": "Fluids – Part 2",
+      "url": "https://www.youtube.com/watch?v=la5I41FNDMA",
+      "videoId": "la5I41FNDMA"
+    },
+    {
+      "id": "P-17",
+      "subject": "Physics",
+      "subjectKey": "P",
+      "number": 17,
+      "name": "Thermal Properties of Matter",
+      "url": "https://www.youtube.com/watch?v=9VBYO4it3ik",
+      "videoId": "9VBYO4it3ik"
+    },
+    {
+      "id": "P-18",
+      "subject": "Physics",
+      "subjectKey": "P",
+      "number": 18,
+      "name": "Heat Transfer and Kinetic Theory of Gases",
+      "url": "https://www.youtube.com/watch?v=INFz1ztreI4",
+      "videoId": "INFz1ztreI4"
+    },
+    {
+      "id": "P-19",
+      "subject": "Physics",
+      "subjectKey": "P",
+      "number": 19,
+      "name": "Thermodynamics",
+      "url": "https://www.youtube.com/watch?v=rqD3aSV98hg",
+      "videoId": "rqD3aSV98hg"
+    },
+    {
+      "id": "P-20",
+      "subject": "Physics",
+      "subjectKey": "P",
+      "number": 20,
+      "name": "Simple Harmonic Motion",
+      "url": "https://www.youtube.com/watch?v=KcM-79DVfAc",
+      "videoId": "KcM-79DVfAc"
+    },
+    {
+      "id": "P-21",
+      "subject": "Physics",
+      "subjectKey": "P",
+      "number": 21,
+      "name": "Wave Motion",
+      "url": "https://www.youtube.com/watch?v=853QJObBo74",
+      "videoId": "853QJObBo74"
+    },
+    {
+      "id": "P-22",
+      "subject": "Physics",
+      "subjectKey": "P",
+      "number": 22,
+      "name": "Sound and Doppler Effect",
+      "url": "https://www.youtube.com/watch?v=azKdNEaNzBM",
+      "videoId": "azKdNEaNzBM"
+    },
+    {
+      "id": "P-23",
+      "subject": "Physics",
+      "subjectKey": "P",
+      "number": 23,
+      "name": "Electric Charges and Fields",
+      "url": "https://www.youtube.com/watch?v=GLEZZdGwuXU",
+      "videoId": "GLEZZdGwuXU"
+    },
+    {
+      "id": "P-24",
+      "subject": "Physics",
+      "subjectKey": "P",
+      "number": 24,
+      "name": "Electric Potential, Dipole and Conductor",
+      "url": "https://www.youtube.com/watch?v=sGb3VLDvNRU",
+      "videoId": "sGb3VLDvNRU"
+    },
+    {
+      "id": "P-25",
+      "subject": "Physics",
+      "subjectKey": "P",
+      "number": 25,
+      "name": "Capacitors",
+      "url": "https://www.youtube.com/watch?v=EJJGEpGFzQs",
+      "videoId": "EJJGEpGFzQs"
+    },
+    {
+      "id": "P-26",
+      "subject": "Physics",
+      "subjectKey": "P",
+      "number": 26,
+      "name": "Current Electricity",
+      "url": "https://www.youtube.com/watch?v=qkay_HDfz4Q",
+      "videoId": "qkay_HDfz4Q"
+    },
+    {
+      "id": "P-27",
+      "subject": "Physics",
+      "subjectKey": "P",
+      "number": 27,
+      "name": "Electrical Instruments and RC Circuits",
+      "url": "https://www.youtube.com/watch?v=BNqf4IS6SzE",
+      "videoId": "BNqf4IS6SzE"
+    },
+    {
+      "id": "P-28",
+      "subject": "Physics",
+      "subjectKey": "P",
+      "number": 28,
+      "name": "Moving Charges and Magnetism",
+      "url": "https://www.youtube.com/watch?v=l6-wkUvKh5k",
+      "videoId": "l6-wkUvKh5k"
+    },
+    {
+      "id": "P-29",
+      "subject": "Physics",
+      "subjectKey": "P",
+      "number": 29,
+      "name": "Magnetism and Matter",
+      "url": "https://www.youtube.com/watch?v=RQ001gI3iA0",
+      "videoId": "RQ001gI3iA0"
+    },
+    {
+      "id": "P-30",
+      "subject": "Physics",
+      "subjectKey": "P",
+      "number": 30,
+      "name": "Electromagnetic Induction",
+      "url": "https://www.youtube.com/watch?v=GZCKTuptkJs",
+      "videoId": "GZCKTuptkJs"
+    },
+    {
+      "id": "P-31",
+      "subject": "Physics",
+      "subjectKey": "P",
+      "number": 31,
+      "name": "Inductors, LR and LC Circuits",
+      "url": "https://www.youtube.com/watch?v=y-Thv16CGt0",
+      "videoId": "y-Thv16CGt0"
+    },
+    {
+      "id": "P-32",
+      "subject": "Physics",
+      "subjectKey": "P",
+      "number": 32,
+      "name": "Alternating Current",
+      "url": "https://www.youtube.com/watch?v=FImh-a0673s",
+      "videoId": "FImh-a0673s"
+    },
+    {
+      "id": "P-33",
+      "subject": "Physics",
+      "subjectKey": "P",
+      "number": 33,
+      "name": "Electromagnetic Waves and Communication",
+      "url": "https://www.youtube.com/watch?v=sp7w7-Yb3kQ",
+      "videoId": "sp7w7-Yb3kQ"
+    },
+    {
+      "id": "P-34",
+      "subject": "Physics",
+      "subjectKey": "P",
+      "number": 34,
+      "name": "Ray Optics",
+      "url": "https://www.youtube.com/watch?v=72T8RfBU0ME",
+      "videoId": "72T8RfBU0ME"
+    },
+    {
+      "id": "P-35",
+      "subject": "Physics",
+      "subjectKey": "P",
+      "number": 35,
+      "name": "Optical Instruments",
+      "url": "https://www.youtube.com/watch?v=Yzen_RY4L6g",
+      "videoId": "Yzen_RY4L6g"
+    },
+    {
+      "id": "P-36",
+      "subject": "Physics",
+      "subjectKey": "P",
+      "number": 36,
+      "name": "Wave Optics",
+      "url": "https://www.youtube.com/watch?v=3h3OexznsA0",
+      "videoId": "3h3OexznsA0"
+    },
+    {
+      "id": "P-37",
+      "subject": "Physics",
+      "subjectKey": "P",
+      "number": 37,
+      "name": "Modern Physics – Part 1",
+      "url": "https://www.youtube.com/watch?v=P3YYVi2LbPY",
+      "videoId": "P3YYVi2LbPY"
+    },
+    {
+      "id": "P-38",
+      "subject": "Physics",
+      "subjectKey": "P",
+      "number": 38,
+      "name": "Modern Physics – Part 2",
+      "url": "https://www.youtube.com/watch?v=yfwy_nQCTKU",
+      "videoId": "yfwy_nQCTKU"
+    },
+    {
+      "id": "P-39",
+      "subject": "Physics",
+      "subjectKey": "P",
+      "number": 39,
+      "name": "Modern Physics – Part 3",
+      "url": "https://www.youtube.com/watch?v=5Y8MrD-47YI",
+      "videoId": "5Y8MrD-47YI"
+    },
+    {
+      "id": "P-40",
+      "subject": "Physics",
+      "subjectKey": "P",
+      "number": 40,
+      "name": "Modern Physics – Part 4",
+      "url": "https://www.youtube.com/watch?v=hAX9fXjXtxk",
+      "videoId": "hAX9fXjXtxk"
+    },
+    {
+      "id": "P-41",
+      "subject": "Physics",
+      "subjectKey": "P",
+      "number": 41,
+      "name": "Semiconductors – Part 1",
+      "url": "https://www.youtube.com/watch?v=Z-VWkjyTN_w",
+      "videoId": "Z-VWkjyTN_w"
+    },
+    {
+      "id": "P-42",
+      "subject": "Physics",
+      "subjectKey": "P",
+      "number": 42,
+      "name": "Semiconductors – Part 2",
+      "url": "https://www.youtube.com/watch?v=LvYeIgMmHc0",
+      "videoId": "LvYeIgMmHc0"
+    },
+    {
+      "id": "P-43",
+      "subject": "Physics",
+      "subjectKey": "P",
+      "number": 43,
+      "name": "Communication Systems",
+      "url": "https://www.youtube.com/watch?v=OSt2Dqgv0eA",
+      "videoId": "OSt2Dqgv0eA"
+    },
+    {
+      "id": "C-01",
+      "subject": "Chemistry",
+      "subjectKey": "C",
+      "number": 1,
+      "name": "Mole Concept",
+      "url": "https://www.youtube.com/watch?v=CAb8YZKLoac",
+      "videoId": "CAb8YZKLoac"
+    },
+    {
+      "id": "C-02",
+      "subject": "Chemistry",
+      "subjectKey": "C",
+      "number": 2,
+      "name": "Atomic Structure",
+      "url": "https://www.youtube.com/watch?v=RCzzG8VnOl4",
+      "videoId": "RCzzG8VnOl4"
+    },
+    {
+      "id": "C-03",
+      "subject": "Chemistry",
+      "subjectKey": "C",
+      "number": 3,
+      "name": "Periodic Table",
+      "url": "https://www.youtube.com/watch?v=RojL6Vlg1J0",
+      "videoId": "RojL6Vlg1J0"
+    },
+    {
+      "id": "C-04",
+      "subject": "Chemistry",
+      "subjectKey": "C",
+      "number": 4,
+      "name": "Chemical Bonding – Part 1",
+      "url": "https://www.youtube.com/watch?v=xVYKk4gGvp0",
+      "videoId": "xVYKk4gGvp0"
+    },
+    {
+      "id": "C-05",
+      "subject": "Chemistry",
+      "subjectKey": "C",
+      "number": 5,
+      "name": "Chemical Bonding – Part 2",
+      "url": "https://www.youtube.com/watch?v=JZ0jMU9iIIE",
+      "videoId": "JZ0jMU9iIIE"
+    },
+    {
+      "id": "C-06",
+      "subject": "Chemistry",
+      "subjectKey": "C",
+      "number": 6,
+      "name": "Redox Reaction",
+      "url": "https://www.youtube.com/watch?v=8oypjDXAXZc",
+      "videoId": "8oypjDXAXZc"
+    },
+    {
+      "id": "C-07",
+      "subject": "Chemistry",
+      "subjectKey": "C",
+      "number": 7,
+      "name": "Hydrogen",
+      "url": "https://www.youtube.com/watch?v=V7ykQ5yiik0",
+      "videoId": "V7ykQ5yiik0"
+    },
+    {
+      "id": "C-08",
+      "subject": "Chemistry",
+      "subjectKey": "C",
+      "number": 8,
+      "name": "Nomenclature",
+      "url": "https://www.youtube.com/watch?v=t4qcUocjQiE",
+      "videoId": "t4qcUocjQiE"
+    },
+    {
+      "id": "C-09",
+      "subject": "Chemistry",
+      "subjectKey": "C",
+      "number": 9,
+      "name": "General Organic Chemistry",
+      "url": "https://www.youtube.com/watch?v=HNRXUAvbkTY",
+      "videoId": "HNRXUAvbkTY"
+    },
+    {
+      "id": "C-10",
+      "subject": "Chemistry",
+      "subjectKey": "C",
+      "number": 10,
+      "name": "Isomerism",
+      "url": "https://www.youtube.com/watch?v=mRHa2Ww-c9Q",
+      "videoId": "mRHa2Ww-c9Q"
+    },
+    {
+      "id": "C-11",
+      "subject": "Chemistry",
+      "subjectKey": "C",
+      "number": 11,
+      "name": "S-Block Elements",
+      "url": "https://www.youtube.com/watch?v=aU6MPFdyjmo",
+      "videoId": "aU6MPFdyjmo"
+    },
+    {
+      "id": "C-12",
+      "subject": "Chemistry",
+      "subjectKey": "C",
+      "number": 12,
+      "name": "Hydrocarbons",
+      "url": "https://www.youtube.com/watch?v=7jA1fFPT5Io",
+      "videoId": "7jA1fFPT5Io"
+    },
+    {
+      "id": "C-13",
+      "subject": "Chemistry",
+      "subjectKey": "C",
+      "number": 13,
+      "name": "Aromatic Hydrocarbons",
+      "url": "https://www.youtube.com/watch?v=N3heaHfdVcY",
+      "videoId": "N3heaHfdVcY"
+    },
+    {
+      "id": "C-14",
+      "subject": "Chemistry",
+      "subjectKey": "C",
+      "number": 14,
+      "name": "Gaseous State",
+      "url": "https://www.youtube.com/watch?v=Ng6Y1HOxRDY",
+      "videoId": "Ng6Y1HOxRDY"
+    },
+    {
+      "id": "C-15",
+      "subject": "Chemistry",
+      "subjectKey": "C",
+      "number": 15,
+      "name": "Thermodynamics",
+      "url": "https://www.youtube.com/watch?v=NwCmoh7Vd9g",
+      "videoId": "NwCmoh7Vd9g"
+    },
+    {
+      "id": "C-16",
+      "subject": "Chemistry",
+      "subjectKey": "C",
+      "number": 16,
+      "name": "Chemical Equilibrium",
+      "url": "https://www.youtube.com/watch?v=gcPWM9JVE0Q",
+      "videoId": "gcPWM9JVE0Q"
+    },
+    {
+      "id": "C-17",
+      "subject": "Chemistry",
+      "subjectKey": "C",
+      "number": 17,
+      "name": "Ionic Equilibrium",
+      "url": "https://www.youtube.com/watch?v=IF7DGTWCK_c",
+      "videoId": "IF7DGTWCK_c"
+    },
+    {
+      "id": "C-18",
+      "subject": "Chemistry",
+      "subjectKey": "C",
+      "number": 18,
+      "name": "Solid State",
+      "url": "https://www.youtube.com/watch?v=EpMsJhL3ocY",
+      "videoId": "EpMsJhL3ocY"
+    },
+    {
+      "id": "C-19",
+      "subject": "Chemistry",
+      "subjectKey": "C",
+      "number": 19,
+      "name": "P-Block Elements – Part 1",
+      "url": "https://www.youtube.com/watch?v=rv5S7g_EPRo",
+      "videoId": "rv5S7g_EPRo"
+    },
+    {
+      "id": "C-20",
+      "subject": "Chemistry",
+      "subjectKey": "C",
+      "number": 20,
+      "name": "Solutions",
+      "url": "https://www.youtube.com/watch?v=f6ENSghG7T4",
+      "videoId": "f6ENSghG7T4"
+    },
+    {
+      "id": "C-21",
+      "subject": "Chemistry",
+      "subjectKey": "C",
+      "number": 21,
+      "name": "Electrochemistry",
+      "url": "https://www.youtube.com/watch?v=GplPceRaMi0",
+      "videoId": "GplPceRaMi0"
+    },
+    {
+      "id": "C-22",
+      "subject": "Chemistry",
+      "subjectKey": "C",
+      "number": 22,
+      "name": "Metallurgy",
+      "url": "https://www.youtube.com/watch?v=l7LmAojpivA",
+      "videoId": "l7LmAojpivA"
+    },
+    {
+      "id": "C-23",
+      "subject": "Chemistry",
+      "subjectKey": "C",
+      "number": 23,
+      "name": "Chemical Kinetics",
+      "url": "https://www.youtube.com/watch?v=kwPNxC9AgZA",
+      "videoId": "kwPNxC9AgZA"
+    },
+    {
+      "id": "C-24",
+      "subject": "Chemistry",
+      "subjectKey": "C",
+      "number": 24,
+      "name": "Surface Chemistry",
+      "url": "https://www.youtube.com/watch?v=0u8U62K7UPQ",
+      "videoId": "0u8U62K7UPQ"
+    },
+    {
+      "id": "C-25",
+      "subject": "Chemistry",
+      "subjectKey": "C",
+      "number": 25,
+      "name": "Haloalkanes and Haloarenes",
+      "url": "https://www.youtube.com/watch?v=UVWwxdh7o6Q",
+      "videoId": "UVWwxdh7o6Q"
+    },
+    {
+      "id": "C-26",
+      "subject": "Chemistry",
+      "subjectKey": "C",
+      "number": 26,
+      "name": "Alcohols, Phenols and Ethers",
+      "url": "https://www.youtube.com/watch?v=mBOFCVb3tSM",
+      "videoId": "mBOFCVb3tSM"
+    },
+    {
+      "id": "C-27",
+      "subject": "Chemistry",
+      "subjectKey": "C",
+      "number": 27,
+      "name": "P-Block Elements – Part 2",
+      "url": "https://www.youtube.com/watch?v=hCJVRDaAnig",
+      "videoId": "hCJVRDaAnig"
+    },
+    {
+      "id": "C-28",
+      "subject": "Chemistry",
+      "subjectKey": "C",
+      "number": 28,
+      "name": "Aldehydes, Ketones and Carboxylic Acids",
+      "url": "https://www.youtube.com/watch?v=S0bcJDrZB64",
+      "videoId": "S0bcJDrZB64"
+    },
+    {
+      "id": "C-29",
+      "subject": "Chemistry",
+      "subjectKey": "C",
+      "number": 29,
+      "name": "Amines",
+      "url": "https://www.youtube.com/watch?v=0tqAQfGr2IA",
+      "videoId": "0tqAQfGr2IA"
+    },
+    {
+      "id": "C-30",
+      "subject": "Chemistry",
+      "subjectKey": "C",
+      "number": 30,
+      "name": "Practical Organic Chemistry",
+      "url": "https://www.youtube.com/watch?v=okCmFv1-iwk",
+      "videoId": "okCmFv1-iwk"
+    },
+    {
+      "id": "C-31",
+      "subject": "Chemistry",
+      "subjectKey": "C",
+      "number": 31,
+      "name": "P-Block Elements – Part 3",
+      "url": "https://www.youtube.com/watch?v=3nPuj7aXORk",
+      "videoId": "3nPuj7aXORk"
+    },
+    {
+      "id": "C-32",
+      "subject": "Chemistry",
+      "subjectKey": "C",
+      "number": 32,
+      "name": "Biomolecules",
+      "url": "https://www.youtube.com/watch?v=xuKRxlEcJvM",
+      "videoId": "xuKRxlEcJvM"
+    },
+    {
+      "id": "C-33",
+      "subject": "Chemistry",
+      "subjectKey": "C",
+      "number": 33,
+      "name": "D-Block and F-Block Elements",
+      "url": "https://www.youtube.com/watch?v=SjILQ6cX_Vo",
+      "videoId": "SjILQ6cX_Vo"
+    },
+    {
+      "id": "C-34",
+      "subject": "Chemistry",
+      "subjectKey": "C",
+      "number": 34,
+      "name": "Coordination Compounds",
+      "url": "https://www.youtube.com/watch?v=DSJQP2o__ao",
+      "videoId": "DSJQP2o__ao"
+    },
+    {
+      "id": "C-35",
+      "subject": "Chemistry",
+      "subjectKey": "C",
+      "number": 35,
+      "name": "Salt Analysis",
+      "url": "https://www.youtube.com/watch?v=8rRnn4ECwXI",
+      "videoId": "8rRnn4ECwXI"
+    },
+    {
+      "id": "C-36",
+      "subject": "Chemistry",
+      "subjectKey": "C",
+      "number": 36,
+      "name": "Polymers",
+      "url": "https://www.youtube.com/watch?v=k5g6LEaBOe0",
+      "videoId": "k5g6LEaBOe0"
+    },
+    {
+      "id": "C-37",
+      "subject": "Chemistry",
+      "subjectKey": "C",
+      "number": 37,
+      "name": "Chemistry in Everyday Life",
+      "url": "https://www.youtube.com/watch?v=_2dOz0DxhYk",
+      "videoId": "_2dOz0DxhYk"
+    },
+    {
+      "id": "C-38",
+      "subject": "Chemistry",
+      "subjectKey": "C",
+      "number": 38,
+      "name": "Environmental Chemistry",
+      "url": "https://www.youtube.com/watch?v=xOaYbVC_i4c",
+      "videoId": "xOaYbVC_i4c"
+    },
+    {
+      "id": "M-01",
+      "subject": "Mathematics",
+      "subjectKey": "M",
+      "number": 1,
+      "name": "Basic Mathematics",
+      "url": "https://www.youtube.com/watch?v=gP-ai7KzuSg",
+      "videoId": "gP-ai7KzuSg"
+    },
+    {
+      "id": "M-02",
+      "subject": "Mathematics",
+      "subjectKey": "M",
+      "number": 2,
+      "name": "Sets and Relations",
+      "url": "https://www.youtube.com/watch?v=0KCLAfpZ2zY",
+      "videoId": "0KCLAfpZ2zY"
+    },
+    {
+      "id": "M-03",
+      "subject": "Mathematics",
+      "subjectKey": "M",
+      "number": 3,
+      "name": "Functions",
+      "url": "https://www.youtube.com/watch?v=qgk0a-W0LQ4",
+      "videoId": "qgk0a-W0LQ4"
+    },
+    {
+      "id": "M-04",
+      "subject": "Mathematics",
+      "subjectKey": "M",
+      "number": 4,
+      "name": "Quadratic Equations",
+      "url": "https://www.youtube.com/watch?v=WshR0IzxWzU",
+      "videoId": "WshR0IzxWzU"
+    },
+    {
+      "id": "M-05",
+      "subject": "Mathematics",
+      "subjectKey": "M",
+      "number": 5,
+      "name": "Sequence and Series",
+      "url": "https://www.youtube.com/watch?v=wDzTxpOG9VI",
+      "videoId": "wDzTxpOG9VI"
+    },
+    {
+      "id": "M-06",
+      "subject": "Mathematics",
+      "subjectKey": "M",
+      "number": 6,
+      "name": "Trigonometric Functions",
+      "url": "https://www.youtube.com/watch?v=ntMA79-Xkxk",
+      "videoId": "ntMA79-Xkxk"
+    },
+    {
+      "id": "M-07",
+      "subject": "Mathematics",
+      "subjectKey": "M",
+      "number": 7,
+      "name": "Trigonometric Equations",
+      "url": "https://www.youtube.com/watch?v=Ms8tRkJgOiY",
+      "videoId": "Ms8tRkJgOiY"
+    },
+    {
+      "id": "M-08",
+      "subject": "Mathematics",
+      "subjectKey": "M",
+      "number": 8,
+      "name": "Solutions of Triangles",
+      "url": "https://www.youtube.com/watch?v=OJxqv6duMic",
+      "videoId": "OJxqv6duMic"
+    },
+    {
+      "id": "M-09",
+      "subject": "Mathematics",
+      "subjectKey": "M",
+      "number": 9,
+      "name": "Complex Numbers",
+      "url": "https://www.youtube.com/watch?v=Jk9uN_XozC0",
+      "videoId": "Jk9uN_XozC0"
+    },
+    {
+      "id": "M-10",
+      "subject": "Mathematics",
+      "subjectKey": "M",
+      "number": 10,
+      "name": "Permutations and Combinations",
+      "url": "https://www.youtube.com/watch?v=K48fN_0TPBA",
+      "videoId": "K48fN_0TPBA"
+    },
+    {
+      "id": "M-11",
+      "subject": "Mathematics",
+      "subjectKey": "M",
+      "number": 11,
+      "name": "Binomial Theorem",
+      "url": "https://www.youtube.com/watch?v=PhD8oL6dPOY",
+      "videoId": "PhD8oL6dPOY"
+    },
+    {
+      "id": "M-12",
+      "subject": "Mathematics",
+      "subjectKey": "M",
+      "number": 12,
+      "name": "Straight Lines",
+      "url": "https://www.youtube.com/watch?v=66QzVoimRUM",
+      "videoId": "66QzVoimRUM"
+    },
+    {
+      "id": "M-13",
+      "subject": "Mathematics",
+      "subjectKey": "M",
+      "number": 13,
+      "name": "Circles",
+      "url": "https://www.youtube.com/watch?v=J1Wv5VLvtXk",
+      "videoId": "J1Wv5VLvtXk"
+    },
+    {
+      "id": "M-14",
+      "subject": "Mathematics",
+      "subjectKey": "M",
+      "number": 14,
+      "name": "Parabola",
+      "url": "https://www.youtube.com/watch?v=LsYvJc56yag",
+      "videoId": "LsYvJc56yag"
+    },
+    {
+      "id": "M-15",
+      "subject": "Mathematics",
+      "subjectKey": "M",
+      "number": 15,
+      "name": "Ellipse",
+      "url": "https://www.youtube.com/watch?v=8asqPexzYzc",
+      "videoId": "8asqPexzYzc"
+    },
+    {
+      "id": "M-16",
+      "subject": "Mathematics",
+      "subjectKey": "M",
+      "number": 16,
+      "name": "Hyperbola",
+      "url": "https://www.youtube.com/watch?v=Es6IoDqItuc",
+      "videoId": "Es6IoDqItuc"
+    },
+    {
+      "id": "M-17",
+      "subject": "Mathematics",
+      "subjectKey": "M",
+      "number": 17,
+      "name": "Relations and Functions",
+      "url": "https://www.youtube.com/watch?v=__XBcqZl5oQ",
+      "videoId": "__XBcqZl5oQ"
+    },
+    {
+      "id": "M-18",
+      "subject": "Mathematics",
+      "subjectKey": "M",
+      "number": 18,
+      "name": "Inverse Trigonometric Functions",
+      "url": "https://www.youtube.com/watch?v=EaofiSDn8MM",
+      "videoId": "EaofiSDn8MM"
+    },
+    {
+      "id": "M-19",
+      "subject": "Mathematics",
+      "subjectKey": "M",
+      "number": 19,
+      "name": "Limits",
+      "url": "https://www.youtube.com/watch?v=2kWgjIYNeCg",
+      "videoId": "2kWgjIYNeCg"
+    },
+    {
+      "id": "M-20",
+      "subject": "Mathematics",
+      "subjectKey": "M",
+      "number": 20,
+      "name": "Continuity",
+      "url": "https://www.youtube.com/watch?v=dvzXDXDagaQ",
+      "videoId": "dvzXDXDagaQ"
+    },
+    {
+      "id": "M-21",
+      "subject": "Mathematics",
+      "subjectKey": "M",
+      "number": 21,
+      "name": "Differentiability",
+      "url": "https://www.youtube.com/watch?v=hNFQLLgocCU",
+      "videoId": "hNFQLLgocCU"
+    },
+    {
+      "id": "M-22",
+      "subject": "Mathematics",
+      "subjectKey": "M",
+      "number": 22,
+      "name": "Methods of Differentiation",
+      "url": "https://www.youtube.com/watch?v=gf0-OEvLHG4",
+      "videoId": "gf0-OEvLHG4"
+    },
+    {
+      "id": "M-23",
+      "subject": "Mathematics",
+      "subjectKey": "M",
+      "number": 23,
+      "name": "Applications of Derivatives",
+      "url": "https://www.youtube.com/watch?v=jVeCha6iI84",
+      "videoId": "jVeCha6iI84"
+    },
+    {
+      "id": "M-24",
+      "subject": "Mathematics",
+      "subjectKey": "M",
+      "number": 24,
+      "name": "Indefinite Integration",
+      "url": "https://www.youtube.com/watch?v=7dVDuyI_8FA",
+      "videoId": "7dVDuyI_8FA"
+    },
+    {
+      "id": "M-25",
+      "subject": "Mathematics",
+      "subjectKey": "M",
+      "number": 25,
+      "name": "Definite Integration",
+      "url": "https://www.youtube.com/watch?v=ISth4dTVbWY",
+      "videoId": "ISth4dTVbWY"
+    },
+    {
+      "id": "M-26",
+      "subject": "Mathematics",
+      "subjectKey": "M",
+      "number": 26,
+      "name": "Applications of Integrals",
+      "url": "https://www.youtube.com/watch?v=AT9xxLnTzWA",
+      "videoId": "AT9xxLnTzWA"
+    },
+    {
+      "id": "M-27",
+      "subject": "Mathematics",
+      "subjectKey": "M",
+      "number": 27,
+      "name": "Differential Equations",
+      "url": "https://www.youtube.com/watch?v=YQ1Ix2FHlm0",
+      "videoId": "YQ1Ix2FHlm0"
+    },
+    {
+      "id": "M-28",
+      "subject": "Mathematics",
+      "subjectKey": "M",
+      "number": 28,
+      "name": "Determinants",
+      "url": "https://www.youtube.com/watch?v=cPIPakSsSFI",
+      "videoId": "cPIPakSsSFI"
+    },
+    {
+      "id": "M-29",
+      "subject": "Mathematics",
+      "subjectKey": "M",
+      "number": 29,
+      "name": "Matrices",
+      "url": "https://www.youtube.com/watch?v=U0JLQdDT-j4",
+      "videoId": "U0JLQdDT-j4"
+    },
+    {
+      "id": "M-30",
+      "subject": "Mathematics",
+      "subjectKey": "M",
+      "number": 30,
+      "name": "Vectors",
+      "url": "https://www.youtube.com/watch?v=FsTlbTQyuJ0",
+      "videoId": "FsTlbTQyuJ0"
+    },
+    {
+      "id": "M-31",
+      "subject": "Mathematics",
+      "subjectKey": "M",
+      "number": 31,
+      "name": "Three-Dimensional Geometry",
+      "url": "https://www.youtube.com/watch?v=7v2vYv6Pl7g",
+      "videoId": "7v2vYv6Pl7g"
+    },
+    {
+      "id": "M-32",
+      "subject": "Mathematics",
+      "subjectKey": "M",
+      "number": 32,
+      "name": "Probability",
+      "url": "https://www.youtube.com/watch?v=lWqcibMwKtk",
+      "videoId": "lWqcibMwKtk"
+    },
+    {
+      "id": "M-33",
+      "subject": "Mathematics",
+      "subjectKey": "M",
+      "number": 33,
+      "name": "Statistics",
+      "url": "https://www.youtube.com/watch?v=mWa7eSpT6kg",
+      "videoId": "mWa7eSpT6kg"
+    },
+    {
+      "id": "M-34",
+      "subject": "Mathematics",
+      "subjectKey": "M",
+      "number": 34,
+      "name": "Mathematical Reasoning",
+      "url": "https://www.youtube.com/watch?v=zbxVS7Y5NZc",
+      "videoId": "zbxVS7Y5NZc"
+    },
+    {
+      "id": "M-35",
+      "subject": "Mathematics",
+      "subjectKey": "M",
+      "number": 35,
+      "name": "Linear Programming",
+      "url": "https://www.youtube.com/watch?v=6lGUchGmkbs",
+      "videoId": "6lGUchGmkbs"
+    }
+  ]
+}

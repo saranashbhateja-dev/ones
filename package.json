@@ -1,0 +1,21 @@
+{
+  "name": "jee-oneshot-os",
+  "version": "2.0.0",
+  "private": true,
+  "type": "commonjs",
+  "scripts": {
+    "start": "node server.js",
+    "cap:sync": "npx cap sync android",
+    "android": "npx cap open android",
+    "android:build": "npx cap sync android && cd android && gradlew.bat assembleDebug"
+  },
+  "dependencies": {
+    "@capacitor/android": "^8.0.0",
+    "@capacitor/cli": "^8.0.0",
+    "@capacitor/core": "^8.0.0"
+  },
+  "engines": {
+    "node": ">=22"
+  },
+  "description": "JEE OneShot OS using the JEE OS static-server architecture, authenticated Supabase cloud sync, and Android APK workflow"
+}

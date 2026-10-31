@@ -1,0 +1,34 @@
+{
+  "version": 2,
+  "app": "JEE OneShot OS 2.0.0",
+  "curriculumId": "jee-oneshot-2026-11-01-v2",
+  "startDate": "2026-11-01",
+  "dailyVideos": 1,
+  "rotation": [
+    "P",
+    "C",
+    "M"
+  ],
+  "totalChapters": 116,
+  "subjects": {
+    "P": {
+      "name": "Physics",
+      "chapters": 43,
+      "playlistUrl": "https://www.youtube.com/playlist?list=PLIA6yvIm2o-w"
+    },
+    "C": {
+      "name": "Chemistry",
+      "chapters": 38,
+      "playlistUrl": "https://www.youtube.com/playlist?list=PLEtXMS0G4-b0"
+    },
+    "M": {
+      "name": "Mathematics",
+      "chapters": 35,
+      "playlistUrl": "https://www.youtube.com/playlist?list=PLFiJ5c6FJgCc"
+    }
+  },
+  "rules": {
+    "revision": false,
+    "tests": false
+  }
+}
